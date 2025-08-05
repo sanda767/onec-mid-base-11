@@ -7,14 +7,14 @@
     <listType typeId="fd93d2ab-9196-45fc-b73c-a7a4f3b1923d" valueTypeId="38fe07ff-a77b-4791-af5f-fe79672ad3a6"/>
     <managerType typeId="10867534-754b-4a23-83f3-679d38fac6ad" valueTypeId="8ac4c2b6-60db-49d4-97f9-d3ce9d29e6f1"/>
   </producedTypes>
-  <name>КонтактныеЛица</name>
+  <name>ДЗ_КонтактныеЛица</name>
   <synonym>
     <key>ru</key>
     <value>Контактные лица</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.КонтактныеЛица.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.КонтактныеЛица.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.ДЗ_КонтактныеЛица.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ДЗ_КонтактныеЛица.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
@@ -143,7 +143,7 @@
       <value>Должность</value>
     </synonym>
     <type>
-      <types>CatalogRef.Должности</types>
+      <types>CatalogRef.ДЗ_Должности</types>
     </type>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>

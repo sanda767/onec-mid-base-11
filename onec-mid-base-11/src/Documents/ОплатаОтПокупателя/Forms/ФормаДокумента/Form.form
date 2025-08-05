@@ -245,7 +245,7 @@
       <common>true</common>
     </userVisible>
     <dataPath xsi:type="form:DataPath">
-      <segments>Объект.КонтактноеЛицо</segments>
+      <segments>Объект.ДЗ_КонтактноеЛицо</segments>
     </dataPath>
     <extendedTooltip>
       <name>КонтактноеЛицоРасширеннаяПодсказка</name>
